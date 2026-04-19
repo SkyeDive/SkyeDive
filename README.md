@@ -1,7 +1,7 @@
 ## Hi there!
 I'm Skye, I use she/her pronouns, I'm majoring in Software Engineering and also enjoy coding in my spare time.
 
-I've worked on a handful of academic projects under PSU, including single-term projects and a two-term capstone project. If you want to reach out (say, to suggest something for a project), feel free to contact me!
+I've worked on a handful of academic team-based projects under PSU, including single-term projects and a two-term capstone project. If you want to reach out, feel free to contact me!
 
 Learned in many languages (C, C++, C#, Java, JavaScript, Ada, Python, Lua)
 
