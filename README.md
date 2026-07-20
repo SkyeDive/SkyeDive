@@ -1,5 +1,5 @@
 ## Hi there!
-I'm Skye, I use she/her pronouns, I'm majoring in Software Engineering and also enjoy coding in my spare time.
+I'm Skye, I use she/her pronouns, I'm a PSU graduate in Software Engineering, and enjoy using my knowledge of coding to bring projects to life.
 
 I've worked on a handful of academic team-based projects under PSU, including single-term projects and a two-term capstone project. If you want to reach out, feel free to contact me!
 
