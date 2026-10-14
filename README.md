@@ -1,9 +1,9 @@
 ## Hi there!
 I'm Skye, I use she/her pronouns, I'm a PSU graduate in B.S. Software Engineering, and enjoy using my knowledge of coding to bring projects to life.
 
-I've worked on a handful of academic team-based projects under PSU, including [a capstone project for TUI development in Ada](https://github.com/TUI-Framework-Ada/thuja), [a Pythonic encryption GUI app](https://github.com/SkyeDive/Pareidolia-archive), and other, single-term class projects. If you want to reach out, feel free to contact me!
+I've worked on a handful of academic team-based projects under PSU, including [a capstone project for TUI development in Ada](https://github.com/TUI-Framework-Ada/thuja), [a Pythonic encryption GUI app](https://github.com/SkyeDive/Pareidolia-archive), and other, single-term class projects. Feel free to reach out if you have questions about anything!
 
-I've picked up and worked with many coding languages (C, C++, C#, Java, JavaScript, Ada, Python, Lua), and I seek to keep adding to that list.
+I've picked up and worked with many coding languages over time (C, C++, C#, Java, JavaScript, Ada, Python, Lua, MIPS assembly), and I seek to keep adding to that list. I currently have the freshest experience in: Python, Java, JavaScript, Ada.
 
 <!---
 SkyeDive/SkyeDive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
