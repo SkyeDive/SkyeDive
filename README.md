@@ -1,5 +1,5 @@
 ## Hi there!
-I'm Skye, I use she/her pronouns, I'm a PSU graduate in B.S. Software Engineering, and enjoy using my knowledge of coding to bring projects to life.
+I'm Skye, I'm a PSU graduate in B.S. Software Engineering, and enjoy using my knowledge of coding to bring projects to life.
 
 I've worked on a handful of academic team-based projects under PSU, including [a capstone project for TUI development in Ada](https://github.com/TUI-Framework-Ada/thuja), [a Pythonic encryption GUI app](https://github.com/SkyeDive/Pareidolia-archive), and other, single-term class projects. Feel free to reach out if you have questions about anything!
 
